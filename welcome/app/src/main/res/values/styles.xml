@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="AppBaseTheme" parent="android:Theme"/>
+
+
+	<style name="AppTheme" parent="AppBaseTheme">
+
+		<!-- add all common style here regardless of theme -->
+		<item name="android:colorPrimary">@color/blue</item>
+		<item name="android:colorPrimaryDark">@color/red</item>
+		<item name="android:colorAccent">@color/orange</item>
+	</style>
+
+	<style name="FancyWelcomeText">
+		<item name="android:textSize">@dimen/font_larger</item>
+		<item name="android:textColor">@color/blue</item>
+	</style>
+</resources>

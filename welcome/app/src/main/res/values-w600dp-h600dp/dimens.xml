@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- font sizes -->
+	<dimen name="font_larger">80dp</dimen>
+
+</resources>
